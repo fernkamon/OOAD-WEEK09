@@ -1,2 +1,22 @@
 # OOAD-WEEK09
 Class Diagram
+
+##ส่งการบ้าน Class Diagram
+ * ภาพที่ 1 วิชาเรียน
+ 
+ [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/ZL7B2i8m4BpdAvQUb9AYLmzIg6SHwW_4TCLAcqfsSoZYlvlqeRMWUCfCPdPsI59YPTdLbH1SSeMGLOe8IGWT0EJkT4NDS1S0yLxLEDvuBcaGTLDWuDsiPuRH14ESDSuImWv9s_B6PMCMI_5uPRChlF6T7SxSMTD3EUfP7n-VbNOLjvtBIwtFcfMQfXzHwGlQh-cZFgJBGqDbQ1ZmP5Dd-xrfx1cjayH48EKMebK7FzyGDa2XzwpW7sCSh295K_YVUW80)
+ 
+ * ภาพที่ 2 คอมพิวเตอร์
+ 
+ [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/XPB1QiCm38RlVWh1BYqZXOwUTkgM3GfRHjdO0tYsnapSE4Ws9PI-UvrqxT8CfpTB-lHB-l6IlIGVDbO8Rxn5K6vJ1uyaXBAI-Hp3JW3SYlrlkd21iSlTV635Zk8homsfO3myMrIUN6KKjqqIb3Mgd4pFtMktHU9GrxPf9RAj8Mp9dqxrEqOz-0MRBt9IxqP6bDZKKdElguWrxwZR-ZL_wbUagHwFWgTKllvCgf-OzuVYAhEIfBNXilDb33pQbsKE1YxVmtmsUuF_FYNX-UN1QT7X-KdoRc3yLSbeNu_v6t2nN_Gl3Iq61ex9BR7IySCU0000)
+ 
+ * ภาพที่ 3 อู่ซ่อมรถ
+ [![IMAGE ALT TEXT] (http://www.plantuml.com/plantuml/img/ZLBBJiCm4BpxArRX0geQaJk7YbGL5yIXNx1oji72ZyZU85LH_vqDSK8fEN2ATtPcFRFEBZ56xfrLYWrRWkCvCJceoJD5YDIXYGbgZ4ffYobbI811NMPCzuc34_wW0BPBLOU6Hg0JJXSuoNapJX98FkDqpsYbl9CIB64oliqaQ8ZHs7J_C0Ev3pfqvmbzDjRAwP9Tj1YnfSd3ACZcH-Phhz_1cWy218tnIkJGYoX-Y_R8k4JMYz5RPnC3J88c-37WHf0G6LwC18_dUSHaClUElNCelN2IzYVvdgvCx4KGsSawtau7uz5hWtRukI-lwJRmyXHGF9QbB-1fkuMYAikgWDyFyrTGhGloEbRvrGf_slc_wQj1rOvy8x_W5m00)
+ 
+ * ภาพที่ 4 ห้องเรียน
+ 
+  [![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/TP7F2eCm3CRlVOhWQNzGvWiCmJ7OPODvsBbeGLbiXgqdsRklhNOwx2vjlkINqA_9bEQTxbjaJ3SQ1UJ8bO8xKSjOwMANiOc1lNtkmH71wb6UaQXRQANxIaWzC83uSZBd_ifROU-YxwGFXRRPpNOIKybeFwOeQo8CJBczX1pxSYIrRCbhtdJpGqv2FMVrTGBH8KdI27PnV8GeTV5iR4qRGePev_iVlgAdNma-nl2qQd1cWkFJ46xD_Yx0rpqgFJh-BCk4hCpkFm00)
+  
+  * ภาพที่ 5 การยืมหนังสือ
+  
+   [![IMAGE ALT TEXT] (http://www.plantuml.com/plantuml/img/XLB1QiCm3BtxAqHFBLq2lVOmkYoNmYWzz0SSMsj277l83cMC_lliE6cIah6B9IozvwSd7wpZvDf6CUOgfn0oGsHkbRv2OKnj6HEAMmiDDWNI3mD8Zha_joVUO8WvTo4c5rGXl4b9Q6seM7IXQRrXzvv4LGLnghY6GBIT4Gq4PzzuCoH37ae-htksO-wv5ec3r5vRvjE1TiZFL8bEx8M-luPYvEfAYn9NkpJLAqYIro6TEW5xU2zHr7_257wwPsYG-GGiEhjXDDQV3xA9lrj2rv86AqgKhOhJb0ZA-3TvOrhjUcka1pnyYYW_tMoDdQgT5qdLjNJ9NEGuoXw4qG99esJhY7mPonj8EtWAqqc6XmGd-U6rTOi-jG6RZP_dc4Uwg7CoSRYuCvXpFEGkh-A_zjrghl20MleF_mi0)
