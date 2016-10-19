@@ -193,7 +193,6 @@ class member {
   -Address
   +setName()
 }
-librarian "1..n" --> "1..n" member : Check
 class cardLoan {
   +NumberB
   -ID
@@ -214,4 +213,4 @@ member "1..1" - "1..n" librarian : concerned
 (member, librarian) .. "1..1" borrow
 @enduml 
    ```
- ![] (http://www.plantuml.com/plantuml/img/RL9BQiCm4Dtx52Ah15U6R4i8QUADeOGiSW5P6cfZMIeZcL1AxbLwcXwbaYNPRidApyoRzv5qC9QX7NgPsTPA8BjwJtw-lezQ8-fRgzv8hNLdCYwPCICcdnaXj2eTfNCeFxCU4hvWoy63Atwyf-5wCuqSl4SfsTR8i6LgrCkhCj6z-XMa_rmSyQPHUEn73eys1cnL1ba7eySz6zEjjaMXLcH7QOApqpCvDS2xcA27lWPCTHRsUSdiCiQB40Z6_BURTQCHfVi4e_PVGyvGlEhK-3nuod5shygm5OfLvQGVJYqjUuVj8xFfZlpDBMhHXTIYNOvW1rJ4y0R48CErDK2aDs6z7fIDZGCn_WYtFGQAhYdEezFcMd501I9R1_RJFDwGeaZB8N9s02NSI_m5)
+ ![] (http://www.plantuml.com/plantuml/img/RP91QiCm44NtFeNmAi6L8TiIGffuOoWXYrn0beRQM9RAI2QKadkLdgP7gMH9jYbT-PiP_VzcfAEn3EquoCnsLWBPDmVoy_LzqXfHtplrHXgjUvDnoOoPDFdC2A5rvLfwfueB6o3fAtOSlBZXntigRhPpoSb7j99TWmmxfYQ_egvIktU_WVIVgskyQnHU-vBJKum1MrV1ricOySWckdnNbYedUqgJN9AUoRa5taU20OO6C8spYYygPjSOBq8W6FCtBjfmXk9LfpakepSzBPvr5N82RbtDD64NwR1dtUM4qaF2ZdZpvlrzh63foch5N23O4HKnl0Knod0PBH3fGzYWHsNZ7A4n_WXtUWAAgGddlnrohJYW0f5jGlVJKjwIiao70t9s12NS-_e5)
